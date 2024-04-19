@@ -1,6 +1,6 @@
 Decentralized Planning Incorporated Privacy Policy
 
-Decentralized Planning Incorporated (the “Company”) is committed to protecting the privacy and security of its users. This Privacy Policy explains how we collect, use, and safeguard the information you provide when you use our services accessed through our website at www.proto-geo.xyz or our mobile application.
+Decentralized Planning Incorporated (the “Company”) is committed to protecting the privacy and security of its users. This Privacy Policy explains how we collect, use, and safeguard the information you provide when you use our services accessed through our website at www.proto-geo.xyz, www.protomap.xyz or our mobile application (the "Proto Mapper" app)
 
 Acceptance and Consent: By using our Site or Service, you agree to the terms of this Privacy Policy and our Terms of Use. You consent to the collection, storage, use, and disclosure of your Personal Information as described here. If you do not agree with the policies and practices, you may choose not to use our Service.
 
