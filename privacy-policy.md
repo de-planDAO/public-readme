@@ -1,32 +1,53 @@
 Decentralized Planning Incorporated Privacy Policy
 
-Decentralized Planning Incorporated (the “Company”) is committed to protecting the privacy and security of its users. This Privacy Policy explains how we collect, use, and safeguard the information you provide when you use our services accessed through our website at www.proto-geo.xyz, www.protomap.xyz or our mobile application (the "Proto Mapper" app)
+Introduction
+This Privacy Policy sets forth how Decentralized Planning Incorporated (the “Company”) manages, collects, and uses your data. By using our website (www.proto-geo.xyz) or our mobile application, you accept this Privacy Policy and consent to our processing activities described herein.
 
-Acceptance and Consent: By using our Site or Service, you agree to the terms of this Privacy Policy and our Terms of Use. You consent to the collection, storage, use, and disclosure of your Personal Information as described here. If you do not agree with the policies and practices, you may choose not to use our Service.
+Contact Information
+For any privacy-related questions or requests, please contact our Data Protection Officer at:
+Email: support@de-plan.xyz
 
-Information We Collect
+Accessibility
+This Privacy Policy is designed to be accessible and readable on any standard web browser without special plugins. It can be viewed at: https://www.proto-geo.xyz/privacy/, which is publicly accessible and non-editable.
 
-Personal Information: Includes your email, and any other details you provide when you register or interact with our services.
-Non-Personal Information: Includes usage data, general demographics, and other anonymous metrics.
-Legal Basis for Processing: We process Personal Information based on consent (which you may withdraw at any time), the necessity to fulfill our contractual obligations to you, compliance with our legal obligations, and our legitimate interests in providing our services.
+Data We Collect and Use
 
-Use of Information
+Personal and Sensitive Data: We collect various types of personal and sensitive information, including but not limited to your email address, geolocation data, device identifiers, and usage data.
 
-Service Provision: Managing your account, providing customer support, and enhancing your user experience.
-Communication: Sending administrative information, service updates, and promotional offers, which you can opt out of at any time.
-Improvement and Analytics: Analyzing service usage to improve our Site and Service.
-Children’s Privacy: Our services are not directed to individuals under 18. We do not knowingly collect information from children under 18 without parental consent.
+Non-Personal Information: We also collect non-personal data such as browser type, operating system, and website navigation paths.
 
-Data Security: We implement measures like encryption and firewalls to protect your information. However, no security system is impenetrable.
+How We Use Your Data
 
-International Data Transfers: Your information may be transferred to, stored, and processed in a country different from your own. We ensure such transfers comply with legal requirements and maintain protection of your information according to this Privacy Policy.
+Service Provision: To manage your account, provide customer service, and personalize your experience.
 
-Your Rights: You have the right to access, correct, or delete your personal data. You can also object to processing, request data portability, and withdraw consent by contacting us. For these purposes, please email support@de-plan.xyz.
+Marketing and Communications: To send updates and promotional offers, from which you can opt-out at any time.
+Analytics and Improvement: To analyze usage and improve our services.
+Sharing of Your Data
 
-Links to Other Sites: Our Service may include links to other websites not operated by us. We are not responsible for their privacy practices and encourage you to review their policies.
+Vendors and Service Providers: We share information with third-party vendors who perform services on our behalf, under strict privacy terms.
 
-Changes to Our Privacy Policy: We reserve the right to modify this policy at any time. We will notify you of any significant changes by sending a notice to the primary email address specified in your account or by placing a notice on our site.
+Legal and Compliance: In response to legal requests or to protect our rights, we may disclose your data to law enforcement or other government entities.
 
-Contact Us: If you have questions about this policy, please contact us at support@de-plan.xyz.
+Data Security
+We employ robust security measures such as encryption and secure server protocols to protect your data from unauthorized access, alteration, or destruction.
 
-Last Updated:19/04/2024
+Data Retention and Deletion
+
+Retention: We retain your personal and sensitive data only as long as necessary to fulfill the purposes outlined in this policy or as required by law.
+Deletion: You may request the deletion of your personal data at any time. Upon your request, or when it no longer serves any legal or business purpose, your data will be deleted securely.
+
+Children’s Privacy
+Our services are not directed to individuals under the age of 18. We do not knowingly collect personal information from children under 18.
+
+Third-Party Links
+Our services may contain links to other websites not owned or controlled by us. This policy does not apply to third-party websites, and we are not responsible for their privacy practices.
+
+Changes to This Privacy Policy
+We reserve the right to modify this policy at any time. Significant changes will be communicated through your registered email and by placing a prominent notice on our website.
+
+Your Rights
+You have the right to access, correct, or delete your personal data maintained by us. Further, you can object to data processing and request data portability.
+
+Conclusion
+This policy is effective as of 08/08/2023. By continuing to use our services, you acknowledge that you have read and understand this Privacy Policy.
+
